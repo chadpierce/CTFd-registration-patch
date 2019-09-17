@@ -1,4 +1,6 @@
 # CTFd Registration Patch
+Official CTFd Site: https://ctfd.io
+Official CTFd Github: https://github.com/CTFd/
 
 Adds registration code field to registration page as seen here:
 
