@@ -1,4 +1,7 @@
 # CTFd Registration Patch
+
+Note: This was tested with CTFd version 2.1.3  
+
 Official CTFd Site: https://ctfd.io  
 Official CTFd Github: https://github.com/CTFd/  
 
