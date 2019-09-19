@@ -4,7 +4,7 @@ Official CTFd Github: https://github.com/CTFd/
 
 Adds registration code field to registration page as seen here:  
 
-<img src="https://raw.githubusercontent.com/chadpierce/CTFd-registration-patch/master/register.png" alt="Registration Code" width="250"/>
+<img src="https://raw.githubusercontent.com/chadpierce/CTFd-registration-patch/master/ctfd-register.png" alt="Registration Code" width="250"/>
 
 Also removes the oauth login option from reg and login pages  
 
